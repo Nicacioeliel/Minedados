@@ -4,3 +4,6 @@ python-docx
 openpyxl 
 PyPDF2
 ocrmypdf
+pytesseract
+Pillow
+opencv-python
