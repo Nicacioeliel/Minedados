@@ -2,5 +2,5 @@ streamlit
 pandas
 python-docx
 openpyxl 
-PyPDF
+PyPDF2
 ocrmypdf
